@@ -1,6 +1,9 @@
 #ignore following files
 
 #ignoring prototype files
+manifest.in
+
+packageRebuild.bash
 
 mafReadr.py
 

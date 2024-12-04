@@ -6,6 +6,7 @@ include LICENSE
 #exclude unwanted files
 
 #ignoring prototype files
+exclude packageRebuild.bash
 
 exclude mafReadr.py
 
