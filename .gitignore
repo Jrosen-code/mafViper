@@ -1,7 +1,7 @@
 #ignore following files
 
 #ignoring prototype files
-manifest.in
+MANIFEST.in
 
 packageRebuild.bash
 
