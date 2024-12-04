@@ -14,7 +14,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name="mafViper",  # Package name
-    version="0.1",  # Initial version
+    version="0.2",  # Better Readme
     author="Joseph Rosen",
     author_email="joemrosen@gmail.com",
     description="A Python package for processing, analyzing and visualizing MAF files.",
