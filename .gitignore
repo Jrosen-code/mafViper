@@ -1,0 +1,44 @@
+#ignore following files
+
+#ignoring prototype files
+
+mafReadr.py
+
+filetest.*
+
+mafreadrTITvTest.py
+
+mafWorkflowproto.py
+
+mafWorkflowtest.py
+
+mergeMafstest.py
+
+summaryTest.py
+
+#ignoring Generated and input files
+
+*.maf
+
+*.xlsx
+
+*.csv
+
+*.pdf
+
+
+__pycache__/
+
+*.pyc
+
+.env
+
+.venv/
+
+# Build files
+
+build/ 
+dist/ 
+
+*.egg-info/
+
