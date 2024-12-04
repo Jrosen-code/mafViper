@@ -1,6 +1,6 @@
 # mafViper
 
-A Python package for processing and analyzing Mutation Annotation Format (MAF) files in genomic research.
+A Python package for processing, analyzing and visualizing Mutation Annotation Format (MAF) files in genomic research.
 
 ## Installation
 
